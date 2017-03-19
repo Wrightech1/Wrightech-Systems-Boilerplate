@@ -293,8 +293,8 @@
     <Content Include="Content\img\BG.jpg" />
     <Content Include="Content\img\intro-pic.jpg" />
     <Content Include="Content\img\slide-1.jpg" />
-    <Content Include="Content\img\slide-2.jpg" />
     <Content Include="Content\img\slide-3.jpg" />
+    <Content Include="Content\img\slide-2.jpg" />
     <Content Include="Error\Forbidden.html" />
     <Content Include="Error\GatewayTimeout.html" />
     <Content Include="Error\ServiceUnavailable.html" />
